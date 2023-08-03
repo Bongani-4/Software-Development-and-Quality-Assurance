@@ -8,3 +8,9 @@ the repository Testing_and_RPA, Reporting_and_Monitoring and POE_ubmission respe
 
 
 ![Project](https://github.com/Bongani-4/CMPG-323-Overview--35016752/assets/140083292/ff36abef-8d34-42ee-940a-ee81a51a59cf)
+
+Branching strategy will different among all this projects depending on the requirements however the common strategy applied to all will be to
+regularly create temporary branches to update/modify something on the project rather than going directly to the main defailt master branch,
+after the temporary branch is modified based on what was needed then i will merge it to the main branch then delete that temporary branch if all look satisfiable.
+Should there be a  merge conflict then i will go to the main branch and opt for there desired version.
+Amount of branches i will need will depend on the project requirements.
