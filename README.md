@@ -14,3 +14,8 @@ regularly create temporary branches to update/modify something on the project ra
 after the temporary branch is modified based on what was needed then i will merge it to the main branch then delete that temporary branch if all look satisfiable.
 Should there be a  merge conflict then i will go to the main branch and opt for there desired version.
 Amount of branches i will need will depend on the project requirements.
+
+Credentials and sensitive information.
+From my local computer repository i can opt not to let Git track this files 
+or delete them manually on file explorer repository.The other option about this file will be to make Git ignore them by creating a file 
+"*.gitignore" inside this files i write *.txt or any extensions of the files i want git to ignore or simply go to https://github.com/github/gitignore. Inside the .gitignore files are files protected,how?, Git ignore them when tracking files in my project's repositories..This is what will be applied to my projects sensetive files.
