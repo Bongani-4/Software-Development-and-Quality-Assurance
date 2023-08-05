@@ -19,3 +19,10 @@ Credentials and sensitive information.
 From my local computer repository i can opt not to let Git track this files 
 or delete them manually on file explorer repository.The other option about this file will be to make Git ignore them by creating a file 
 "*.gitignore" inside this files i write *.txt or any extensions of the files i want git to ignore or simply go to https://github.com/github/gitignore. Inside the .gitignore files are files protected,how?, Git ignore them when tracking files in my project's repositories..This is what will be applied to my projects sensetive files.
+
+
+
+Sprint BurnDown Chart
+![image](https://github.com/Bongani-4/CMPG-323-Overview--35016752/assets/140083292/7db4dbee-9b04-496a-a60c-86884571aeb5)
+
+
