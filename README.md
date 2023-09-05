@@ -1,7 +1,7 @@
 # CMPG-323-Overview--35016752 
 
 NODE!!
-This overview project contains project 1 tasks,i should seperate them after marking.
+This overview repo contains project 1 tasks,i should seperate them after marking.
 
 
 Project names and their repository that will be used: 
