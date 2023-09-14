@@ -30,3 +30,21 @@ Sprint BurnDown Chart
 ![image](https://github.com/Bongani-4/CMPG-323-Overview--35016752/assets/140083292/7db4dbee-9b04-496a-a60c-86884571aeb5)
 
 
+> **On project 2**.
+
+First task was Using Restful APIs  with .Net 6	and applying the Database First Approach  to create model codes (classes, properties, DbContext, etc.) from the database in the project and those classes became the link between the database and the controller.Creating the entity framework from an existing database.On the process of creating  a CRUD RESTful API that will connect to a database storing basic logistics data.Databases used for this was "EcoPowerSolutions DB" hosted on azure in the same resource group hosting the API.
+
+BASIC PLAN 
+
+![BasicPlan](https://github.com/Bongani-4/CMPG-323--overview/assets/140083292/2fff3566-c16e-4009-bc7d-1b07935b11f8)
+
+ 
+
+
+
+**On Project3**.
+2 branches so far, main and development.The main/master branch will include the concise version whereas the dev one will serve as an integration branch for features. Again in this repo credentials and sensetive info will be stored in the simple .gitignore file in this repo to prevent them from being committed accidentally.
+
+An ASP.NET Core MVC Web Application project named 'EcoPower_Logistics' has been uploaded to be enhanced and improved. This project'purpose is to demonstrate the skill of adapting and using existing code instead of rewriting code over and over again.This .NET Core MVC Web Applicatiion will then be Hosted on Cloud
+
+
