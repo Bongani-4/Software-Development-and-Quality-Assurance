@@ -41,6 +41,7 @@ Should there be a  merge conflict then i will go to the main branch and opt for 
 Amount of branches  needed will depend on the project requirements.
 
 Credentials and sensitive information.
+
 From local computer repository Git should not track this files
 .The other option about this file will be to make Git ignore them by creating a file 
 "*.gitignore" inside this files there is *.txt or any extensions of those sensetive files. Inside the .gitignore files are files protected
@@ -78,7 +79,8 @@ BASIC PLAN
 
 
 
-**On Project3**.
+**On Project 3**.
+
 2 branches so far, main and development.The main/master branch will include the concise version whereas the dev one will serve as an integration branch for features. Again in this repo credentials and sensetive info will be stored in the simple .gitignore file in this repo to prevent them from being committed accidentally.
 
 An ASP.NET Core MVC Web Application project named 'EcoPower_Logistics' has been uploaded to be enhanced and improved. This project'purpose is to demonstrate the skill of adapting and using existing code instead of rewriting code over and over again.This .NET Core MVC Web Applicatiion will then be Hosted on Cloud  
