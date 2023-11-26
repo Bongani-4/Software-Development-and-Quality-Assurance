@@ -3,7 +3,7 @@
 
 
 
-Repositories that will be used: 
+Related repositories that will be used: 
 1. API_development
 2. Standards_and_patterns
 3. Testing_and_RPAs
